@@ -1,0 +1,7 @@
+DEFAULT_MODEL_PATH = "yolo11x.pt"
+
+COCO_AIRPLANE_ID = 4
+COCO_BIRD_ID = 14
+
+IMAGE_EXTENSIONS = (".jpg", ".jpeg", ".png")
+VIDEO_EXTENSIONS = (".mp4") 

@@ -1,0 +1,10 @@
+.venv/
+venv/
+__pycache__/
+
+images/
+mp4s/
+sahi_results/
+testjpgs/
+
+*.pt
