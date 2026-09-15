@@ -1,4 +1,5 @@
 # BirdPlane - Sagan Marcin
+Projekt stworzony na rzech praktych w firmie SemiQa - prowadzacy Tomasz Matusiak
 
 Projekt rozpoznaje (a przynajmniej sie stara) rozrozniac patki od samolotow na zdjeciach badz wideo (gotowe lub live)
 
